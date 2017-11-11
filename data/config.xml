@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<!-->古代文字图片地址、图片大小尺寸（宽度、高度）、古代文字图片对应的现代汉字-->
+	<images>
+		<easy>
+			<img key="幸">p1.jpg</img>
+			<img key="福">p2.jpg</img>
+			<img key="张">p3.jpg</img>
+			<img key="媛">p4.jpg</img>
+			<img key="平">p11.jpg</img>
+			<img key="安">p12.jpg</img>
+			<img key="好">p13.jpg</img>
+			<img key="远">p14.jpg</img>
+			<img key="生">p15.jpg</img>
+			<img key="活">p16.jpg</img>
+			<img key="软">p17.jpg</img>
+			<img key="件">p18.jpg</img>
+			<img key="驱">p19.jpg</img>
+			<img key="动">p20.jpg</img>
+			<img key="中">p21.jpg</img>
+			<img key="国">p22.jpg</img>
+		</easy>
+		<medium>
+			<img key="智">p5.jpg</img>
+			<img key="少">p6.jpg</img>
+			<img key="飞">p7.jpg</img>
+		</medium>
+		<hard>
+			<img key="快">p8.jpg</img>
+			<img key="上">p9.jpg</img>
+			<img key="水">p10.jpg</img>
+		</hard>
+	</images>
+	<gameTime>
+		0.2
+	</gameTime>
+</data>
